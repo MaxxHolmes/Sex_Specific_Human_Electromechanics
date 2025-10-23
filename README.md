@@ -1,4 +1,4 @@
-# Sex_Specific_Human_Electromechanics
+# Sex Specific Human Electromechanical Models
 
 If used in publications, please cite our paper where this work was first published, found here: https://doi.org/10.1016/j.jmccpl.2025.100479
 
